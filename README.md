@@ -1,2 +1,2 @@
 # MIS515
-In this folder I am going to be presenting my three projects I created with my team
+Here, you are able to view the first project I had created with my team for an MIS 515 course. 
